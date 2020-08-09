@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Kyle Monk! 👋
 
-<!--
-**kjm1550/kjm1550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Web Developer and Designer
 
-Here are some ideas to get you started:
+-   🌱 I’m currently building my React skills
+-   🌐 Client Work: [Winters FAmily Restaurant](https://wintersfamilyrestaurant.com/) and [Grundy County COAD](https://grundycoad.com/)
+-   🥅 2020 Goals: Get a job that I enjoy and continue learning web development.
+-   😄 Pronouns: he/him
+-   ⚽ Intests Outside of Coding: Soccer, video games, being creative, skiing, and reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me:
+
+-   [My Website](kyejmonk.com)
+-   [LinkedIn](https://www.linkedin.com/in/kylejmonk/)
+
+### Languages & Tools:
+
+HTML, CSS, SASS, JavaScript, React, Node, WordPress, VS Code, SQL
