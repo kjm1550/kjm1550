@@ -11,7 +11,7 @@
 
 ### Connect With Me:
 
--   [My Website](https://www.kyejmonk.com)
+-   [My Website](https://kylejmonk.com/)
 -   [LinkedIn](https://www.linkedin.com/in/kylejmonk/)
 
 ### Languages & Tools:
