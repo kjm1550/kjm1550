@@ -5,7 +5,7 @@
 -   🏢 Working for ES99 in Chicago as Front End Web Developer
 -   🌱 I’m currently building my React skills by creating a [Pokedex web app](https://github.com/kjm1550/Pokedex)
 -   🌐 Client Work: [Winters Family Restaurant](https://wintersfamilyrestaurant.com/) and [Grundy County COAD](https://grundycoad.com/)
--   🥅 2020 Goals: Enjoy my new job and continue learning web development
+-   🥅 2021 Goals: Advance in my career and build my skills in React and Next.js
 -   😄 Pronouns: he/him
 -   ⚽ Intests Outside of Coding: Soccer, video games, board games, being creative, skiing, and reading
 
@@ -16,4 +16,4 @@
 
 ### Languages & Tools:
 
-HTML, CSS, SASS/SCSS, JavaScript, React, Node, WordPress, VS Code, SQL
+HTML, CSS, SASS/SCSS, JavaScript, React, Next.js, Node, WordPress, VS Code, SQL, MongoDB
