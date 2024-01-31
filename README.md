@@ -1,13 +1,11 @@
 # Hi there, I'm Kyle Monk! 👋
 
-## I'm a Web Developer and Designer
+## I'm a Web Developer who believes a better world has better websites
 
--   🏢 Working for ES99 in Chicago as Front End Web Developer
--   🌱 I’m currently building my React skills by creating a [Pokedex web app](https://github.com/kjm1550/Pokedex)
--   🌐 Client Work: [Winters Family Restaurant](https://wintersfamilyrestaurant.com/) and [Grundy County COAD](https://grundycoad.com/)
--   🥅 2021 Goals: Advance in my career and build my skills in React and Next.js
--   😄 Pronouns: he/him
--   ⚽ Intests Outside of Coding: Soccer, video games, board games, being creative, skiing, and reading
+-   😄 Pronouns: he/him.
+-   🏢 Working for Impact Networking in Chicago as Front End Web Developer.
+-   ⭐Specialize in creating engaging, accessible, and dynamic websites. The web should be interesting and for everyone.
+-   ⚽ Interests Outside of Coding: Soccer, video games, board games, D&D, skiing, and home renovations.
 
 ### Connect With Me:
 
@@ -16,4 +14,4 @@
 
 ### Languages & Tools:
 
-HTML, CSS, SASS/SCSS, JavaScript, React, Next.js, Node, WordPress, VS Code, SQL, MongoDB
+HTML, CSS, JavaScript, React, Next.js, Strapi, Figma, VS Code, Framer Motion, GSAP, Lottie, and PostgreSQL
