@@ -13,4 +13,4 @@
 
 ### Languages & Tools:
 
-React, Next.js, Strapi, Tailwind, Framer Motion, GSAP, Lottie, MySQL and PostgreSQL
+React, Next.js, Svelte, SvelteKit, Headless CMSs, Tailwind, Framer Motion, GSAP, Lottie, MySQL and PostgreSQL
